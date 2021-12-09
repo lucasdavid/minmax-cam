@@ -11,8 +11,12 @@ Implementations:
 - [D-MinMax-Grad-CAM](src/minmax.py#L122)
 - [Kernel Usage Regularization](src/kur.py)
 
-## Examples of Explaining Regions Proposed by Different CAM Methods
-![Comparison of CAM methods in the Pascal VOC 2012 dataset.](assets/pascal-2012-resnet101-ce/3-cam-methods-comparison-overlay-cropped.jpg)
+## Examples
+The figure below illustrates the explaining regions proposed by multiple visual explaining techniques,
+for each one of the classified labels in each image.
+The techniques are, from left to right, CAM, Grad-CAM++, Score-CAM, MinMax-CAM and D-MinMax-CAM.
+
+![Comparison of CAM methods in the Pascal VOC 2012 dataset.](assets/cover.jpg)
 
 ## Summary
 
