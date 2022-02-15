@@ -49,3 +49,19 @@ We list below the notebooks used to train, evaluate and observe the multiple CAM
 | 1   | VOC 2007   | [study-of-sigmoid-multilabel-voc-2007](notebooks/experiments/3-analysis/study-of-sigmoid-multilabel-voc-2007.ipynb) | analysis notebook for multiple explaining methods, using the ResNet101 network over the Pascal VOC 2007 dataset |
 | 2   | VOC 2012   | [study-of-sigmoid-multilabel-voc-2012](notebooks/experiments/3-analysis/study-of-sigmoid-multilabel-voc-2012.ipynb) | analysis notebook for multiple explaining methods, using the ResNet101 network over the Pascal VOC 2012 dataset |
 | 3   | P:AfS      | [study-of-sigmoid-multilabel-amazon-from-space](notebooks/experiments/3-analysis/study-of-sigmoid-multilabel-amazon-from-space.ipynb) | analysis notebook for multiple explaining methods, using the ResNet101 network over the Planet: Understanding the Amazon from Space dataset |
+
+## Citation
+
+```
+@conference{visapp22,
+author={Lucas David. and Helio Pedrini. and Zanoni Dias.},
+title={MinMax-CAM: Improving Focus of CAM-based Visualization Techniques in Multi-label Problems},
+booktitle={Proceedings of the 17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 4: VISAPP,},
+year={2022},
+pages={106-117},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0010807800003124},
+isbn={978-989-758-555-5},
+}
+```
